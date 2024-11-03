@@ -1,4 +1,4 @@
-#Computerized Cognitive Retraining Program (CCRP) for Home Training of Children with Disabilities
+# Computerized Cognitive Retraining Program (CCRP) for Home Training of Children with Disabilities
 
 >The Computerized Cognitive Retraining Program (CCRP) is designed to offer home-based training for children with developmental disabilities, helping them improve essential cognitive skills such as attention, memory, problem-solving, and executive functions. This initiative addresses the Ministry of Social Justice and Empowerment's problem statement in the Smart India Hackathon (Problem Statement Code: SIH1307), which seeks innovative solutions to support the cognitive development of children with disabilities through technology.
 
